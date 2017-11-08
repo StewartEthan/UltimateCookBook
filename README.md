@@ -3,6 +3,8 @@
 
 I started writing this in college to try to get more programming experience, but as I have gone the web development route in the years since and have a heavy preference for JavaScript over Java on front- and back-end, I have no plans at this time to come back to this project. It now exists solely as a memento of my early days as a programmer.
 
+-------------------------------------------------------------------------------------
+
 Containing the code for a Java program I wrote for my wife, which does the following:
 
 - displays recipes contained in resources/recipes directory
